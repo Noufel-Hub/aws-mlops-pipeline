@@ -1,6 +1,6 @@
 # 🚀 End-to-End MLOps Pipeline on AWS
 
-![Status](https://img.shields.io/badge/status-in%20progress-yellow)
+![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![AWS](https://img.shields.io/badge/cloud-AWS-orange)
 ![Python](https://img.shields.io/badge/python-3.10-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -112,11 +112,11 @@ aws-mlops-pipeline/
 
 - [x] Pipeline architecture design
 - [x] S3 data ingestion & preprocessing step
-- [ ] SageMaker training & evaluation steps
-- [ ] Model Registry integration
-- [ ] Endpoint deployment with blue/green rollout
-- [ ] CloudWatch monitoring & drift alerts
-- [ ] Full pipeline integration test
+- [x] SageMaker training & evaluation steps
+- [x] Model Registry integration
+- [x] Endpoint deployment with blue/green rollout
+- [x] CloudWatch monitoring & drift alerts
+- [x] Full pipeline integration test
 
 ---
 
